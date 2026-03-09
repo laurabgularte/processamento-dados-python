@@ -1,3 +1,3 @@
-## Curso - Python para processamento de dados
+## 🐍 Curso - Python para processamento de dados
 
 Repositório destinado a estudos/projetos do curso.
