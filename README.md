@@ -1,3 +1,5 @@
-## 🐍 Curso - Python para processamento de dados
+## 🐍 Curso - Python - Processamento de dados - AKCIT
 
-Repositório destinado a estudos/projetos do curso.
+## 🐍 Curso - Python Essentials 1 - Cisco
+
+Repositório destinado a estudos/projetos dos dois cursos: Python para processamento de dados (AKCIT) e Python Essentials 1 (Cisco).
